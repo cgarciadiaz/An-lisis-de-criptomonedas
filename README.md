@@ -1,2 +1,2 @@
 # Criptocurrency analysis
-El objetivo es analizar el precio de las criptomonedas.
+The objective is to analyze the price of cryptocurrencies.
