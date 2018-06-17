@@ -1,4 +1,4 @@
-# Criptocurrency analysis
+# Cryptocurrency analysis
 The objective is to analyze the price of cryptocurrencies.
 
 ---
