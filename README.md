@@ -4,19 +4,25 @@ The objective is to analyze the price of cryptocurrencies and apply methods of d
 ---
 #### Struct of files
  - IPython Notebook:
-         cryptocurrency_analysis.ipynb 
-         cryptocurrency_measures.ipynb 
-         cryptocurrency_prediction_deep_learning.ipynb
-         cryptocurrency_prophet.ipynb
+        cryptocurrency_analysis.ipynb 
+        cryptocurrency_measures.ipynb 
+        cryptocurrency_indicators_regression.ipynb
+        cryptocurrency_indicators_rGRU.ipynb
+        cryptocurrency_indicators_rLSTM.ipynb
+        cryptocurrency_indicators_rLSTM2.ipynb
+        cryptocurrency_indicators_rLSTM_regression.ipynb
          
  - Files of cryptocurrency analysis
-         /cryptocurrency_analysis_files/...
+         ./cryptocurrency_analysis_files/...
          
  - Files of cryptocurrency indicators
-         /cryptocurrency_mesures_files/...
+         ./cryptocurrency_indicators_files/...
+  
+ - Files of cryptocurrency other versions
+         ./other_versions/...
          
  - Files of configuration:
-         /configuration_environment/...
+         ./configuration_environment/...
          
  - Files to export:
-         /configuration_environment/...
+         ./export_files/...
